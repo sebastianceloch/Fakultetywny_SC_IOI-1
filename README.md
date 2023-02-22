@@ -1,0 +1,1 @@
+# Fakultetywny_SC_IOI-1
