@@ -1,0 +1,8 @@
+Wizja:
+Celem projektu będzie stworzenie aplikacji webowej, która zawiera informację
+o lokalizacji kebabów, wraz z komentarzami i ocenami, dodanie możliwości łatwej aktualizacji bazy danych "z kebabami". Możliwość sugerowania aktualizacji bazy danych przez użytkownika. Możliwość zgłaszania błędów przez użytkownika, automatyczne zgłaszanie błędów. Wydzielenie miejsca na reklamy w interfejsie (w projekcie strony).
+Wartość biznesowa: Przychód wynikający z reklam wyświetlających się na stronie. Użycie rozwiązań chmurowych pozwoli na wydajne skalowanie możliwości obsługi użytkowników w stosunku do faktycznego ruchu. Grupa docelowa - konsumenci kebabów. Z powodu stałego zapotrzebowania na kebaby, rozwiązanie które ułatwi do nich dostęp wywoła duże zainteresowanie, które można spieniężyć przy pomocy wyświetlanych reklam.
+Zakres: Umieszczenie w bazie danych największych miast Polski z lokalizacją kebabów. Korzysta z API Google Maps. Hosting w chmurze AWS. Termin na wykonanie aplikacji: 3 miesiące. Moduł ocen i konta użytkowników.
+Role w projekcie:
+SysAdmin, Project Manager, Frontendowiec, Backendowiec, Tester, DevOps, UX Designer, Sponsor, Cloud Engineer.
+KPI - wskaźniki postępu: ilość i stopień uzupełnienia informacji o stanie gastronomicznym największych miast. Ilość zgłoszeń awarii aplikacji. Ilość zrealizowanych funkcjonalności aplikacji(funkcja mapy, funkcja znacznika, funkcja oceny, funkcja opisu, funkcja zgłoszenia itp.). Ilość kont użytkowników.
