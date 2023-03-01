@@ -1,0 +1,11 @@
+-konfiguracja dockera (2h)
+-projektowanie rozwiązania(6h)
+-postawienie bazy danych(5h)
+-stworzenie API(10h)
+-stworzenie graficznej strony aplikacji(20h)
+-stylowanie elementów(5h)
+-wdrożenie aplikacji w chmurze(6h)
+-testy user experience(3h)
+-testy techniczne(3h)
+-testy penetracyjne( ͡° ͜ʖ ͡°)(4h)
+
